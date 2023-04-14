@@ -1,2 +1,2 @@
 # DHR
-core code for conference paper #Deep Hashing Retrieval for Dynamic Corpora#
+core code for paper *Deep Hashing Retrieval for Dynamic Corpora* submitted to ICSP2023
