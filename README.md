@@ -1,2 +1,2 @@
 # DHR
-core code for conference paper "Deep Hashing Retrieval for Dynamic Corpora"
+core code for conference paper #Deep Hashing Retrieval for Dynamic Corpora#
